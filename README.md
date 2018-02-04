@@ -1,4 +1,4 @@
-#This is my repository
+This is my repository
 
 Here you can find all my academic and industry oriented projects which are as follows:-
 
