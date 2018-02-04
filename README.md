@@ -4,7 +4,6 @@ Here you can find all my academic and industry oriented projects which are as fo
 
 1. College Network Logical System
 -> Done in July '14
-
 -> As part of summer internship at HCL INFOTECH Ltd., Noida 
 -> Based on the concepts of Cisco Certified Network Associates (CCNA) 
 -> Designed a network architecture for a college campus in Cisco Packet Tracer (a   network simulator) by implementing    various concepts and technologies of CCNA
